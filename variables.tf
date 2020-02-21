@@ -40,3 +40,5 @@ variable "disk_size_gb" {
   default     = "10"
 }
 
+variable "node_version" {}
+
